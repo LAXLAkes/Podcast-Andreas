@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+    <!-- Show-level metadata -->
+    <title>The Deep Dive</title>
+    <link>https://www.google.com/search?q=deep+dive</link>
+    <description>A birthday special for Andreas.</description>
+    <language>en</language>
+
+    <!-- Show artwork -->
+    <itunes:image href="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/ffe9ba35-e4f6-4b99-87f8-3127c37393d4.png" />
+
+    <!-- Optional, but recommended for Apple Podcasts -->
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- One episode -->
+    <item>
+      <title>Jane Jacobs: The Nature of Economies (birthday special)</title>
+      <description>A special episode on the ecosystem character of the human economy.</description>
+
+      <!-- Must be stable; do not change once shared -->
+      <guid isPermaLink="false">urn:uuid:PUT-A-UNIQUE-ID-HERE</guid>
+
+      <!-- Use an RFC-822 date format -->
+      <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+
+      <!-- The actual audio file -->
+      <enclosure
+        url="https://1drv.ms/u/c/5f18421fb5c85c64/IQRv5Pwtn7FnRZZnPcM5qk43Acpfljf4yotARJp1f7ay5WM"
+        length="68824226"
+        type="audio/mp4" />
+
+      <!-- Optional but nice -->
+      <itunes:duration>00:35:38</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
