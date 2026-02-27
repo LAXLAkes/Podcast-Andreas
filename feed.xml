@@ -28,7 +28,7 @@
 
       <!-- The actual audio file -->
       <enclosure
-        url="https://github.com/LAXLAkes/Podcast-Andreas/blob/main/Economies_Are_Forests%2C_Not_Machines.m4a"
+        url="https://github.com/LAXLAkes/Podcast-Andreas/raw/refs/heads/main/Economies_Are_Forests,_Not_Machines.m4a"
         length="68824226"
         type="audio/mp4" />
 
