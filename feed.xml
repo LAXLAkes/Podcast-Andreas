@@ -10,7 +10,7 @@
     <language>en</language>
 
     <!-- Show artwork -->
-    <itunes:image href="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/ffe9ba35-e4f6-4b99-87f8-3127c37393d4.png" />
+    <itunes:image href="https://raw.githubusercontent.com/LAXLAkes/Podcast-Andreas/e2af54c372b285531122960d02be2afb623526d8/ffe9ba35-e4f6-4b99-87f8-3127c37393d4.png" />
 
     <!-- Optional, but recommended for Apple Podcasts -->
     <itunes:explicit>false</itunes:explicit>
